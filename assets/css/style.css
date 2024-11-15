@@ -523,7 +523,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: var(--bg-gradient-yellow-1);
+ background: var(--bg-oxford-blue-2);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
