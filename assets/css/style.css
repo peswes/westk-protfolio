@@ -523,7 +523,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
- background: var(--bg-oxford-blue-2);
+  background: var(--bg-oxford-blue-2);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
@@ -1108,7 +1108,7 @@ main {
 
 .blog-post-item > a {
   position: relative;
-  background: var(--border-gradient-onyx);
+  background: var(--bg-prussian-blue);
   height: 100%;
   box-shadow: var(--shadow-4);
   border-radius: 16px;
@@ -1120,7 +1120,7 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: var(--eerie-black-1);
+  background: var(--bg-oxford-blue-2);
   z-index: -1;
 }
 
@@ -1157,7 +1157,7 @@ main {
 }
 
 .blog-meta .dot {
-  background: var(--light-gray-70);
+  background: var(--bg-oxford-blue);
   width: 4px;
   height: 4px;
   border-radius: 4px;
